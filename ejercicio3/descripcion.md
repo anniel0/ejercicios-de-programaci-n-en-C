@@ -2,7 +2,7 @@
 
 📝 Descripción General
 
-Este proyecto implementa el clásico juego "El Juego de la Vieja" (Tic-Tac-Toe) en Python, enfrentando al usuario contra la computadora en un total de tres manos.
+Este proyecto implementa el clásico juego "El Juego de la Vieja" (Tic-Tac-Toe), enfrentando al usuario contra la computadora en un total de tres manos.
 
 El objetivo del ejercicio es demostrar la capacidad de manejar el estado del juego utilizando solamente variables sencillas y archivos para la persistencia y la configuración.
 
